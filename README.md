@@ -13,4 +13,4 @@ Coming soon.
 
 ## UX Journal
 
-[Spotify Web Browser](j01/)
+[Journal 1](j01/)
