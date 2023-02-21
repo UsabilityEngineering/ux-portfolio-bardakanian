@@ -1,8 +1,8 @@
 # UX Portfolio
 
-Behnam Ardakanian
+# Behnam Ardakanian
 
-Hello, I am Behnam Ardakanian. This is my last semester at Chico State. I am from the Bay Area and a CINS major. 
+This is my last semester at Chico State. I am from the Bay Area and a CINS major. UX is important because it can enchance the product to be more fluid and clear for the user.
 
 ## UX Team Project
 
@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Spotify Web Browser](j01/)
