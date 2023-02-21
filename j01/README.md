@@ -5,4 +5,4 @@ Spotify is the largest music streaming service that has over 400 million users a
 ![image](https://user-images.githubusercontent.com/98926315/220244663-72330e30-085b-4f49-a0f5-0f8687ee3328.png)
 
 
-The simplicity of the layout of the website improves the user satisfaction. I use the Discover Weekly playlist that is powered by a Spotify algorithm that suggests new songs based on your listening history and liked songs. This is very useful because you don't have to find new music manually but automatically.
+The simplicity of the layout of the website improves the user **satisfaction**. I use the Discover Weekly playlist that is powered by a Spotify algorithm that suggests new songs based on your listening history and liked songs. This is very **useful** because you don't have to find new music manually but automatically.
