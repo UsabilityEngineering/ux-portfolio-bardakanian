@@ -8,6 +8,7 @@ Spotify is the largest music streaming service that has over 400 million users a
 I use the Discover Weekly playlist that is powered by a Spotify algorithm that suggests new songs based on your listening history and liked songs. This is very **useful** because you don't have to find new music manually but automatically.
 
 
-![ezgif-2-3dc14d11ba](https://user-images.githubusercontent.com/98926315/220244978-0032c238-84d3-4fd7-aaab-94124bf365ce.gif)
+![ezgif-2-3dc14d11ba](https://user-images.githubusercontent.com/98926315/220248270-760b55a7-5bd9-4439-9042-756e6f760889.gif)
+
 
 The simplicity of the layout of the website improves the user **satisfaction**. The video shows how simple it is to like a song on the website which the song goes into a playlist of your liked songs. The weakness on the web browser is that there is no sort option for playlists, but it's available on the mobile and desktop application. 
