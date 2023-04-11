@@ -9,7 +9,7 @@ Spring 2023 is my last semester at Chico State. I am from the Bay Area and a CIN
 
 ## UX Team Project
 
-Coming soon.
+[Voting Match](https://usabilityengineering.github.io/VotingMatch/)
 
 ## UX Journal
 
