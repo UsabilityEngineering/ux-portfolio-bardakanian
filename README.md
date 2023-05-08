@@ -13,4 +13,4 @@ Spring 2023 is my last semester at Chico State. I am from the Bay Area and a CIN
 
 ## UX Journal
 
-[Journal 1](j01/) [Journal 2](j02/)
+[Journal 1](j01/)
