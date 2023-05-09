@@ -17,4 +17,4 @@ I add a title and a photo to the playlist. Then, I go back to spotify 80s playli
 
 https://github.com/UsabilityEngineering/ux-portfolio-bardakanian/assets/98926315/6573f0fd-8e26-4976-8375-a254a43b4f3f
 
-At the end, I created my personalized 80s playlist for my party!
+In the end, I created my personalized 80s playlist for my party!
