@@ -10,11 +10,11 @@ The simplicity of the layout of the website demonstrates an **aesthetic and mini
 
 Let's say I want to make an 80s playlist for an upcoming 80s party. Spotify will already have a playlist of 80s songs that would make my task more **efficient**. I will add the songs from that playlist to my own personal 80s playlist. I need to first create my personal playlist by clicking on the + next to Your Library. I have two options: create a playlist or a playlist folder, and I pick create a playlist.
 
-https://github.com/UsabilityEngineering/ux-portfolio-bardakanian/assets/98926315/f9087ea7-e411-42ec-a586-603f8c61f40c
+![video](https://github.com/UsabilityEngineering/ux-portfolio-bardakanian/assets/98926315/f9087ea7-e411-42ec-a586-603f8c61f40c)
 
 
 I add a title and a photo to the playlist. Then, I go back to spotify 80s playlist, and select the songs I want. I go to the three dots shown near the time stamp, I click on it. It shows multiple options which I click on "add to playlist" which the one I to add to is 80s Dance. I can remove the songs from the playlist by clicking the three dots.
 
-https://github.com/UsabilityEngineering/ux-portfolio-bardakanian/assets/98926315/6573f0fd-8e26-4976-8375-a254a43b4f3f
+![video](https://github.com/UsabilityEngineering/ux-portfolio-bardakanian/assets/98926315/6573f0fd-8e26-4976-8375-a254a43b4f3f)
 
 In the end, I created my personalized 80s playlist for my party!
