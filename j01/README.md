@@ -14,6 +14,6 @@ Let's say I want to make an 80s playlist for an upcoming 80s party. Spotify will
 
 I add a title and a photo to the playlist. Then, I go back to spotify 80s playlist, and select the songs I want. I go to the three dots shown near the time stamp, I click on it. It shows multiple options which I click on "add to playlist" which the one I to add to is 80s Dance. I can remove the songs from the playlist by clicking the three dots.
 
-![ezgif com-video-to-gif (1)](https://github.com/UsabilityEngineering/ux-portfolio-bardakanian/assets/98926315/ab785fa5-88f0-4051-975f-43f25f2a169f)
+![ezgif com-video-to-gif](https://github.com/UsabilityEngineering/ux-portfolio-bardakanian/assets/98926315/406efad7-a6af-4dd9-8d83-b16056581b9b)
 
 In the end, by adding more songs, I created my personalized 80s playlist for my party!
